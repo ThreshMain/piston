@@ -279,7 +279,7 @@ Content-Type: application/json
 `nasm`,
 `nasm64`,
 `nim`,
-`node`,
+`javascript`,
 `osabie`,
 `paradoc`,
 `perl`,
